@@ -3,3 +3,6 @@
 
 ## 사용 기술
   python, Django, Django Rest Framework, Django Filter, MariaDB 
+  
+## Link
+  https://github.com/DeathByS/DjangoServer/blob/master/README.md
